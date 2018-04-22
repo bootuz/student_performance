@@ -1,2 +1,2 @@
-# student_performance
+# Student Performace.
 Feature preprocessing of Student Performance dataset
