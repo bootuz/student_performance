@@ -36,7 +36,7 @@ https://archive.ics.uci.edu/ml/datasets/student+performance
 29. health - current health status (numeric: from 1 - very bad to 5 - very good) 
 30. absences - number of school absences (numeric: from 0 to 93) 
 
-### these grades are related with the course subject, Math or Portuguese: 
+### These grades are related with the course subject, Math or Portuguese: 
 31. G1 - first period grade (numeric: from 0 to 20) 
 31. G2 - second period grade (numeric: from 0 to 20) 
 32. G3 - final grade (numeric: from 0 to 20, output target)
